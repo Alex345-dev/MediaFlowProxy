@@ -12,7 +12,7 @@
     "module": [
         {
             "search": {
-                "url": "https://streamingcommunity.ooo/search",
+                "url": "https://streamingcommunity.ooo/search?q={query}",
                 "parameter": "q",
                 "documentSelector": "main div.browse div.sliders a.slider-tile-mobile",
                 "title": "img[alt]",
