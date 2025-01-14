@@ -14,8 +14,8 @@
             "search": {
                 "url": "https://streamingcommunity.ooo/search",
                 "parameter": "q",
-                "documentSelector": "main div div div div a",
-                "title": "img.alt",
+                "documentSelector": "main div.browse div.sliders a.slider-tile-mobile",
+                "title": "img[alt]",
                 "image": {
                     "url": "img",
                     "attribute": "src"
