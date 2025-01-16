@@ -20,7 +20,7 @@
                     "url": ".mlnh-thumb img",
                     "attribute": "src"
                 },
-                "href": "href"
+                "href": "a[href]"
             },
             "featured": {
                 "url": "https://streamingcommunity.ooo",
