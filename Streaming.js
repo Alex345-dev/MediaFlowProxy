@@ -16,8 +16,9 @@
                 "parameter": "story",
                 "documentSelector": ".mlnew",
                  "title": {
-                    "title": ".mlnh-thumb img",
+                    "text": ".mlnh-thumb img",
                     "attribute": "title",
+                    },
                 "image": {
                     "url": ".mlnh-thumb img",
                     "attribute": "src"
