@@ -12,8 +12,8 @@
     "module": [
         {
             "search": {
-                "url": "https://streamingcommunity.ooo/search?q={query}",
-                "parameter": "q",
+                "url": "https://guardaserie.academy/search",
+                "parameter": "story",
                 "documentSelector": "main div.browse div.sliders a.slider-tile-mobile",
                 "title": "img[alt]",
                 "image": {
@@ -24,13 +24,13 @@
             },
             "featured": {
                 "url": "https://streamingcommunity.ooo",
-                "documentSelector": "div.content[data-name=all] div.item",
-                "title": "a.name",
+                "documentSelector": ".mlnew",
+                "title": ".mlnh-thumb a",
                 "image": {
-                    "url": "img",
+                    "url": "mlnh-thumb img",
                     "attribute": "src"
                 },
-                "href": "a.poster"
+                "href": ""
             },
             "details": {
                 "baseURL": "https://animeworld.so",
