@@ -12,8 +12,8 @@
     "module": [
         {
             "search": {
-                "url": "https://guardaserie.academy/&do=search&subaction=search",
-                "parameter": "query",
+                "url": "https://guardaserie.academy/",
+                "parameter": "story",
                 "documentSelector": ".mlnew",
                 "title": ".mlnh-thumb a",
                 "image": {
