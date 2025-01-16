@@ -13,7 +13,7 @@
         {
             "search": {
                 "url": "https://guardaserie.academy/&do=search&subaction=search",
-                "parameter": "story",
+                "parameter": "query",
                 "documentSelector": ".mlnew",
                 "title": ".mlnh-thumb a",
                 "image": {
