@@ -12,7 +12,7 @@
     "module": [
         {
             "search": {
-                "url": "https://guardaserie.academy/?do=search&subaction=search",
+                "url": "https://guardaserie.academy/",
                 "parameter": "story",
                 "documentSelector": ".mlnew",
                 "title": ".mlnh-thumb a",
