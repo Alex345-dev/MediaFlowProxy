@@ -15,7 +15,9 @@
                 "url": "https://guardaserie.academy/&do=search&subaction=search",
                 "parameter": "story",
                 "documentSelector": ".mlnew",
-                "title": "mlnh-2 a",
+                 "title": {
+                    "title": ".mlnh-thumb img",
+                    "attribute": "title"
                 "image": {
                     "url": ".mlnh-thumb img",
                     "attribute": "src"
