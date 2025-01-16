@@ -33,17 +33,17 @@
                 "href": ""
             },
             "details": {
-                "baseURL": "https://animeworld.so",
+                "baseURL": "https://guardaserie.academy",
                 "aliases": {
-                    "selector": "div.widget-title h1",
-                    "attribute": "data-jtitle"
+                    "selector": "span.tv_info_tle",
+                    "attribute": ""
                 },
-                "synopsis": "div.info div.desc",
-                "airdate": "div.row dl.meta dt:contains(Data di Uscita) + dd",
-                "stars": "dd.rating span"
+                "synopsis": "div.tv_info_right p",
+                "airdate": "div.tv_info_list li:contains('Anno:') + li",
+                "stars": "div#raitings .rating span"
             },
             "episodes": {
-                "selector": "main div a.play",
+                "selector": "ul li a[data-link]",
                 "order": "ordered",
                 "pattern": ""
             }
