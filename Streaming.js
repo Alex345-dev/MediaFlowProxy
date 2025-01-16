@@ -15,20 +15,17 @@
                 "url": "https://guardaserie.academy/&do=search&subaction=search",
                 "parameter": "story",
                 "documentSelector": ".mlnew",
-                 "title": {
-                    "text": ".mlnh-thumb img",
-                    "attribute": "title",
-                    },
+                "title": ".mlnh-thumb a",
                 "image": {
                     "url": ".mlnh-thumb img",
                     "attribute": "src"
                 },
-                "href": "a"
+                "href": "href"
             },
             "featured": {
                 "url": "https://streamingcommunity.ooo",
                 "documentSelector": ".mlnew",
-                "title": ".mlnh-thumb a",
+                "title": ".mlnh-2 a",
                 "image": {
                     "url": "mlnh-thumb img",
                     "attribute": "src"
@@ -50,6 +47,6 @@
                 "order": "ordered",
                 "pattern": ""
             }
-        }}
+        }
     ]
 }
