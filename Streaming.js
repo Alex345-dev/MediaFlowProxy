@@ -17,7 +17,7 @@
                 "documentSelector": ".mlnew",
                  "title": {
                     "title": ".mlnh-thumb img",
-                    "attribute": "title"
+                    "attribute": "title",
                 "image": {
                     "url": ".mlnh-thumb img",
                     "attribute": "src"
@@ -49,6 +49,6 @@
                 "order": "ordered",
                 "pattern": ""
             }
-        }
+        }}
     ]
 }
