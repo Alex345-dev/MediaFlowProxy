@@ -43,7 +43,7 @@
                 "stars": "div#raitings .rating span"
             },
             "episodes": {
-                "selector": "ul li a[data-link]",
+                "selector": ".slink[data-link^="https://supervideo.cc/embed-"",
                 "order": "ordered",
                 "pattern": ""
             }
