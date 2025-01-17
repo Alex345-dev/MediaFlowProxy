@@ -20,7 +20,7 @@
                     "url": ".story-cover img",
                     "attribute": "src"
                 },
-                "href": ".story-cover a"
+                "href": ".story-heading a"
             },
             "featured": {
                 "url": "https://streamingcommunity.ooo",
