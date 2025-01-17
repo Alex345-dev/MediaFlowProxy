@@ -6,7 +6,7 @@
         "website": "https://google.com"
     },
     "iconURL": "https://raw.githubusercontent.com/bshar1865/MFS/refs/heads/main/assets/animeworld.png",
-    "stream": "MP4",
+    "stream": "m3u8",
     "language": "IT",
     "extractor": "normal",
     "module": [
