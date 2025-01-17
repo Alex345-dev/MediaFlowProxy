@@ -12,7 +12,7 @@
     "module": [
         {
             "search": {
-                "url": "https://cb01.com.im/index.php?do=search&subaction=search",
+                "url": "https://cb01.com.im/index.php?do=search&subaction=search&search_start=0&full_search=0&result_from=1",
                 "parameter": "story",
                 "documentSelector": ".col-sm-8 .short",
                 "title": ".story-cover a",
