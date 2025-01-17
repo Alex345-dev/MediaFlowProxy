@@ -15,12 +15,12 @@
                 "url": "https://cb01.com.im/index.php?do=search&subaction=search&search_start=0&full_search=0&result_from=1&story={searchTerm}",
                 "parameter": "story",
                 "documentSelector": ".container .row .col-sm-8",
-                "title": ".story-cover a",
+                "title": ".short .story-cover a",
                 "image": {
-                    "url": ".story-cover img",
+                    "url": ". short .story-cover img",
                     "attribute": "src"
                 },
-                "href": ".story-cover a"
+                "href": ".short .story-cover a"
             },
             "featured": {
                 "url": "https://streamingcommunity.ooo",
