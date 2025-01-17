@@ -12,15 +12,15 @@
     "module": [
         {
             "search": {
-                "url": "https://cb01.com.im/index.php?do=search&subaction=search&search_start=0&full_search=0&result_from=1&story={searchTerm}",
-                "parameter": "story",
+                "url": "https://cb01.com.im/index.php?do=search",
+                "parameter": "searchinput",
                 "documentSelector": ".container .row .col-sm-8",
-                "title": ".short .story-cover a",
+                "title": ".short-main a",
                 "image": {
-                    "url": ". short .story-cover img",
+                    "url": ".story-cover img",
                     "attribute": "src"
                 },
-                "href": ".short .story-cover a"
+                "href": ".story-cover a"
             },
             "featured": {
                 "url": "https://streamingcommunity.ooo",
