@@ -12,8 +12,8 @@
     "module": [
         {
             "search": {
-                "url": "https://cb01.com.im/index.php?do=search",
-                "parameter": "do",
+                "url": "https://cb01.com.im/?do=search&subaction=search",
+                "parameter": "story",
                 "documentSelector": ".container .row .col-sm-8",
                 "title": ".short-main a",
                 "image": {
