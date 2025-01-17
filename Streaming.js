@@ -33,7 +33,7 @@
                 "href": ""
             },
             "details": {
-                "baseURL": "https://guardaserie.academy",
+                "baseURL": "https://cb01.com.im",
                 "aliases": {
                     "selector": "span.tv_info_tle",
                     "attribute": ""
