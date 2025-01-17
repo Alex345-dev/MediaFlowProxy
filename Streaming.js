@@ -14,7 +14,7 @@
             "search": {
                 "url": "https://cb01.com.im/index.php?do=search&subaction=search",
                 "parameter": "story",
-                "documentSelector": ".col-sm-8",
+                "documentSelector": ".col-sm-8 .short",
                 "title": ".story-cover a",
                 "image": {
                     "url": ".story-cover img",
