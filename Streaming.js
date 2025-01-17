@@ -14,13 +14,13 @@
             "search": {
                 "url": "https://cb01.com.im/index.php?do=search&subaction=search",
                 "parameter": "story",
-                "documentSelector": ".col-sm-8 .short",
-                "title": ".story-heading a",
+                "documentSelector": ".container .col-sm-8 .short",
+                "title": ".story-cover a",
                 "image": {
                     "url": ".story-cover img",
                     "attribute": "src"
                 },
-                "href": ".story-heading a"
+                "href": ".story-cover a"
             },
             "featured": {
                 "url": "https://streamingcommunity.ooo",
