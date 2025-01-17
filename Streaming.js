@@ -12,15 +12,15 @@
     "module": [
         {
             "search": {
-                "url": "https://guardaserie.academy/&do=search&subaction=search",
+                "url": "https://cb01.com.im/index.php?do=search&subaction=search&search_start=0&full_search=0&result_from=1",
                 "parameter": "story",
-                "documentSelector": ".mlnew",
-                "title": ".mlnh-2 a",
+                "documentSelector": ".col-sm-8",
+                "title": ".story-cover a",
                 "image": {
-                    "url": ".mlnh-thumb img",
+                    "url": ".story-cover img",
                     "attribute": "src"
                 },
-                "href": ".mlnh-2 a"
+                "href": ".story-cover a"
             },
             "featured": {
                 "url": "https://streamingcommunity.ooo",
